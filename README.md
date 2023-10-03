@@ -1,7 +1,7 @@
 # Tableau_Dashboard_Project
 Visualization of 120 Years of Olympic games History using Tableau.
 
-[![Video link of Dashboard](https://img.youtube.com/vi/r5n2JNEJn44/0.jpg)](https://youtu.be/r5n2JNEJn44)
+[![Video link of Dashboard](https://img.youtube.com/vi/r5n2JNEJn44/0.jpg)](https://youtu.be/r5n2JNEJn44)  
 (Click above for short demo video ☝🏻️)
 
 ## Usage
